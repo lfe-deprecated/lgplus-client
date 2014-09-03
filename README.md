@@ -1,5 +1,6 @@
 # lgplus-client
 
+*An LFE Google+ Client Library*
 
 ## Introduction
 
