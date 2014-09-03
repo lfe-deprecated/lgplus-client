@@ -31,3 +31,9 @@ And then do the usual:
 ## Usage
 
 Add content to me here!
+
+
+## Dev Resources
+
+* [Google+ API](https://developers.google.com/+/api/)
+* [Google+ Sign-In via Python](https://github.com/googleplus/gplus-quickstart-python/blob/master/signin.py)
