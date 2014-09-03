@@ -4,7 +4,8 @@
 
 ## Introduction
 
-Add content to me here!
+This is a placeholder until Google opens up status updates in in API. (Right
+now, they only let partner companies post via APIs.)
 
 
 ## Installation
