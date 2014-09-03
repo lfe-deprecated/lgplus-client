@@ -12,9 +12,10 @@ Add content to me here!
 Just add it to your ``rebar.config`` deps:
 
 ```erlang
-    {deps, [
-        ...
-        {lgplus-client, ".*", {git, "git@github.com:YOURNAME/lgplus-client.git", "master"}}
+  {deps, [
+    ...
+    {lgplus-client, ".*",
+      {git, "git@github.com:YOURNAME/lgplus-client.git", "master"}}
       ]}.
 ```
 
